@@ -62,6 +62,28 @@ Designed 10 interactive dashboards across five categories:
 
 ---
 
+## 📸 Dashboard Screenshots  
+
+Here are some of the Power BI dashboards created during the project:  
+
+1. **Overall Ride Volume Over Time**  
+ ![image](https://github.com/user-attachments/assets/2c40aca0-3721-48a5-b919-acc9c58f2b2c)
+  
+2. **Booking Status Breakdown**
+     ![image](https://github.com/user-attachments/assets/40bcd9a7-c29d-4da5-b3c8-cd7e741d29ad)
+  
+3. **Revenue by Payment Method**  
+ ![image](https://github.com/user-attachments/assets/db65afdb-e396-4173-baeb-5e4abf8890c1)
+
+4. **Top Vehicle Types by Ride Distance**  
+   ![image](https://github.com/user-attachments/assets/81649941-d521-4d85-9f84-ba8fefa77997)
+ 
+5. **Customer vs. Driver Ratings**  
+  ![image](https://github.com/user-attachments/assets/b4c28661-a20b-4bcb-89c9-814e548217d3)
+  
+
+---
+
 ## 🚀 Highlights  
 
 This project showcases how **data-driven insights** can empower better decision-making in the ride-sharing industry. From understanding customer behavior to optimizing operations, the analysis highlights critical areas for strategic improvements.  
